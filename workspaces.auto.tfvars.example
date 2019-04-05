@@ -1,0 +1,5 @@
+workspace_ids = [
+  "workspace-example-1",
+  "workspace-example-2",
+  "workspace-example-3"
+]
